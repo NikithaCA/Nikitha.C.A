@@ -1,6 +1,6 @@
-#Hello Everyone 👋
-Welcome to my Github Profile!!!
-##About Me 😊
+# Hello Everyone 👋<br> 
+ Welcome to my Github Profile!!!<br>
+## About Me 😊<br>
 -Data Enthusiast
 -Hardworker
 -Perfectionist
